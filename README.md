@@ -9,6 +9,7 @@ Scripts from this repository can be used at your own discretion, in-script docum
 ```sh
 ├───Data
 │   └───FrequentTrees
+│   └───VWS
 ├───Figures
 ├───Literature
 ├───Presentations
