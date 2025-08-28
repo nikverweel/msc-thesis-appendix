@@ -8,12 +8,12 @@ Scripts from this repository can be used at your own discretion, in-script docum
 ## Repository tree
 ```sh
 ├───Data
-│   └───FrequentTrees
+│   ├───Accuracy
+│   ├───FrequentTrees
 │   └───VWS
 ├───Figures
 ├───Literature
 ├───Presentations
-├───Scripts
 └───Webmap
 ```
 
