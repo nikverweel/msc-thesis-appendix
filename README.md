@@ -14,6 +14,7 @@ Scripts from this repository can be used at your own discretion, in-script docum
 ├───Figures
 ├───Literature
 ├───Presentations
+├───Scripts
 └───Webmap
 ```
 
