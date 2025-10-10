@@ -19,5 +19,14 @@ Scripts from this repository can be used at your own discretion, in-script docum
 ```
 
 ## Usage
-
 This repository is meant as source for additional information and is occasionally referred to in the mentioned thesis.
+
+Scripts may need to be altered to suit certain purposes.
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
